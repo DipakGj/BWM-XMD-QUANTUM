@@ -139,8 +139,8 @@
       "required": false
     },
     "GOODBYE_MESSAGE": {
-      "description": "Enable  goodbye in groups (yes/no)",
-      "value": "no",
+      "description": "TUIPODMARA BOKACHODA KANKIRCHELA (yes/no)",
+      "value": "yes",
       "required": false
     },
     "AUDIO_CHATBOT": {
